@@ -1,5 +1,5 @@
 ### Socials: 
-<a href="https://instagram.com/micoandrae"><img src="https://img.shields.io/badge/micoandrae-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/mico-andrae-gervacio-a20b35282/"><img src="https://img.shields.io/badge/micoandrae-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+<a href="https://instagram.com/micoandrae"><img src="https://img.shields.io/badge/micoandrae-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/micoandrae/"><img src="https://img.shields.io/badge/micoandrae-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 <a href="https://www.facebook.com/micoandraes/"><img src="https://img.shields.io/badge/micoandrae-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 <br>
 ### How to reach me: 
