@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/-micoandrae.g%40gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>
 
 
-### Current Status Quo:
+### Current Status:
 
 - 💼 Frontend Developer
 
